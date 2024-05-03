@@ -1,0 +1,216 @@
+[
+    {
+        "id":123,
+        "name": "Federico Toledo",
+        "linkedin_url": "https://www.linkedin.com/in/federicotoledo",
+        "personal_info": {
+          "location": [
+            "Montevideo, Uruguay",
+            "Bahía de San Francisco y alrededores, Estados Unidos",
+            "Ciudad de México y alrededores, México",
+            "Pereira, Colombia",
+            "Ciudad Real, España",
+            "Pisa y alrededores, Italia"
+          ],
+          "roles": [
+            "Co-founder and Chief Quality Officer",
+            "COO, Co-fundador",
+            "Consultor",
+            "Miembro del Directorio",
+            "Mentor",
+            "Profesor",
+            "Director académico",
+            "Member",
+            "Co-director de tesis de máster",
+            "Investigador, Doctorando",
+            "Estancia de Investigación para Doctorado",
+            "Docente Grado 1, Instituto de Computación",
+            "Tester Senior y Líder de Proyectos"
+          ],
+          "interests": [
+            "software testing",
+            "automation",
+            "performance",
+            "team management",
+            "e-learning technology"
+          ]
+        },
+        "professional_experience": [
+          {
+            "company": "Abstracta Inc.",
+            "total_experience": "15 años 10 meses",
+            "positions": [
+              {
+                "title": "Co-founder and Chief Quality Officer",
+                "duration": "ene. 2023 - actualidad",
+                "location": "Montevideo, Uruguay",
+                "mode": "Híbrido",
+                "description": null
+              },
+              {
+                "title": "COO, Co-fundador",
+                "duration": "ago. 2008 - ene. 2023",
+                "location": "Montevideo, Uruguay",
+                "description": "Gestionando al equipo y apoyando con los proyectos y servicios de la empresa, para que el equipo sea más productivo. Mejorando los procesos y guiando a los integrantes del equipo en temas de software testing, automation, performance y team management."
+              }
+            ]
+          },
+          {
+            "company": "Apptim",
+            "total_experience": "9 años 5 meses",
+            "positions": [
+              {
+                "title": "Consultor",
+                "duration": "ene. 2019 - actualidad",
+                "location": "Bahía de San Francisco y alrededores, Estados Unidos"
+              },
+              {
+                "title": "Miembro del Directorio",
+                "duration": "ene. 2015 - dic. 2018",
+                "location": "Montevideo, Uruguay"
+              }
+            ]
+          },
+          {
+            "company": "Universidad de la Empresa",
+            "total_experience": "3 años 9 meses",
+            "position": "Mentor",
+            "duration": "jul. 2015 - mar. 2019"
+          },
+          {
+            "company": "Universidad Católica del Uruguay",
+            "total_experience": "4 años",
+            "position": "Profesor",
+            "duration": "mar. 2015 - feb. 2019",
+            "location": "Montevideo, Uruguay",
+            "description": "Dando clases de una asignatura electiva llamada 'Testing de Software'"
+          },
+          {
+            "company": "Abstracta Academy",
+            "total_experience": "3 años",
+            "position": "Director académico",
+            "duration": "ene. 2016 - dic. 2018",
+            "location": "Montevideo, Uruguay",
+            "mode": "Híbrido",
+            "description": "Desarrollando procesos académicos y contenidos para una academia online (con enfoque e-learning) sobre temas de tecnología."
+          },
+          {
+            "company": "Computer Measurement Group, Inc. (CMG)",
+            "total_experience": "1 año 1 mes",
+            "position": "Member",
+            "duration": "nov. 2016 - nov. 2017"
+          },
+          {
+            "company": "Udetec",
+            "total_experience": "9 meses",
+            "position": "Director Académico",
+            "duration": "ago. 2015 - abr. 2016",
+            "location": "Ciudad de México y alrededores, México",
+            "description": "Desarrollando procesos académicos y contenidos para una academia online (con enfoque e-learning) sobre temas de tecnología."
+          },
+          {
+            "company": "Universidad Tecnológica de Pereira",
+            "total_experience": "1 año 3 meses",
+            "position": "Co-director de tesis de máster",
+            "duration": "mar. 2013 - may. 2014",
+            "location": "Pereira, Colombia"
+          },
+          {
+            "company": "Alarcos Research Group",
+            "total_experience": "3 años 1 mes",
+            "position": "Investigador, Doctorando",
+            "duration": "feb. 2011 - feb. 2014",
+            "location": "Ciudad Real, España"
+          },
+          {
+            "company": "CONSIGLIO NAZIONALE DELLE RICERCHE - CNR",
+            "total_experience": "4 meses",
+            "position": "Estancia de Investigación para Doctorado",
+            "duration": "jul. 2013 - oct. 2013",
+            "location": "Pisa y alrededores, Italia"
+          },
+          {
+            "company": "Facultad de Ingeniería de la Universidad de la República",
+            "total_experience": "2 años 5 meses",
+            "position": "Docente Grado 1, Instituto de Computación",
+            "duration": "ago. 2008 - dic. 2010",
+            "location": "Montevideo, Uruguay"
+          },
+          {
+            "company": "Centro de Ensayos de Software",
+            "total_experience": "5 años 6 meses",
+            "position": "Tester Senior y Líder de Proyectos",
+            "duration": "jul. 2005 - dic. 2010",
+            "location": "Montevideo, Uruguay"
+          }
+        ]
+      },
+      {
+        "id":456,
+        "name": "Ana Gómez",
+        "linkedin_url": "https://www.linkedin.com/in/anagomez",
+        "personal_info": {
+          "location": [
+            "Silicon Valley, CA, USA"
+          ],
+          "roles": [
+            "Directora de Calidad",
+            "Ingeniera de Software Senior",
+            "Analista de QA",
+            "Desarrolladora de Software Junior"
+          ],
+          "interests": [
+            "QA Automatizado",
+            "Testing",
+            "Desarrollo de Software",
+            "Innovación Tecnológica",
+            "Liderazgo Técnico"
+          ]
+        },
+        "professional_experience": [
+          {
+            "company": "Tech Innovations LLC",
+            "total_experience": "4 años",
+            "positions": [
+              {
+                "title": "Directora de Calidad",
+                "duration": "2019 - actualidad",
+                "location": "Silicon Valley, CA, USA",
+                "mode": "Presencial",
+                "description": "Liderando el departamento de calidad, implementando prácticas de QA automatizado y asegurando la excelencia del software."
+              },
+              {
+                "title": "Ingeniera de Software Senior",
+                "duration": "2017 - 2019",
+                "location": "Silicon Valley, CA, USA",
+                "description": "Desarrollando soluciones de software y trabajando en la mejora continua de los procesos de desarrollo."
+              }
+            ]
+          },
+          {
+            "company": "Global Tech Solutions",
+            "total_experience": "3 años",
+            "positions": [
+              {
+                "title": "Analista de QA",
+                "duration": "2014 - 2017",
+                "location": "Nueva York, NY, USA",
+                "description": "Responsable de la planificación y ejecución de pruebas, asegurando la calidad del software entregado."
+              }
+            ]
+          },
+          {
+            "company": "Innovative Startups",
+            "total_experience": "2 años",
+            "positions": [
+              {
+                "title": "Desarrolladora de Software Junior",
+                "duration": "2012 - 2014",
+                "location": "Austin, TX, USA",
+                "description": "Contribuyendo al desarrollo de productos innovadores y aprendiendo las mejores prácticas del desarrollo de software."
+              }
+            ]
+          }
+        ]
+      }
+]

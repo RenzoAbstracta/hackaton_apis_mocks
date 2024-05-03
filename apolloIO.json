@@ -1,0 +1,98 @@
+{
+    "leads": [
+        {
+        "id": "12345",
+        "name": "Federico Toledo",
+        "title": "COO",
+        "company": {
+            "id": "67890",
+            "name": "Abstracta Inc.",
+            "industry": "Desarrollo y Calidad de Software",
+            "specialties": ["Testing de Software", "Desarrollo Ágil"]
+        },
+        "email": "federico.toledo@abstracta.us",
+        "phone": "123-456-7890",
+        "location": "Montevideo, Uruguay",
+        "linkedin_url": "https://www.linkedin.com/in/federicotoledo"
+        },
+        {
+        "id": "67891",
+        "name": "Ana Gómez",
+        "title": "Directora de Calidad",
+        "company": {
+            "id": "67892",
+            "name": "Tech Innovations LLC",
+            "industry": "Desarrollo de Software",
+            "specialties": ["QA Automatizado", "Testing"]
+        },
+        "email": "ana.gomez@techinnovationsllc.com",
+        "phone": "987-654-3210",
+        "location": "Silicon Valley, CA, USA",
+        "linkedin_url": "https://www.linkedin.com/in/anagomez"
+        },
+        {
+        "id": "67893",
+        "name": "Marcos Rodríguez",
+        "title": "Jefe de Proyecto",
+        "company": {
+            "id": "67894",
+            "name": "Creative Devs",
+            "industry": "Desarrollo de Software",
+            "specialties": ["Desarrollo de Frontend", "React"]
+        },
+        "email": "marcos.rodriguez@creativedevs.com",
+        "phone": "321-654-0987",
+        "location": "Buenos Aires, Argentina",
+        "linkedin_url": "https://www.linkedin.com/in/marcosrodriguez"
+        },
+        {
+        "id": "67895",
+        "name": "Laura Martínez",
+        "title": "Ingeniera de Software",
+        "company": {
+            "id": "67896",
+            "name": "Global Code",
+            "industry": "Desarrollo de Software",
+            "specialties": ["Node.js", "Microservicios"]
+        },
+        "email": "laura.martinez@globalcode.com",
+        "phone": "456-123-7890",
+        "location": "Madrid, España",
+        "linkedin_url": "https://www.linkedin.com/in/lauramartinez"
+        },
+        {
+        "id": "67897",
+        "name": "David Chung",
+        "title": "Especialista en UX/UI",
+        "company": {
+            "id": "67898",
+            "name": "Design Innovate",
+            "industry": "Diseño y Desarrollo de Software",
+            "specialties": ["Diseño UX", "Diseño UI"]
+        },
+        "email": "david.chung@designinnovate.com",
+        "phone": "789-321-4567",
+        "location": "Seúl, Corea del Sur",
+        "linkedin_url": "https://www.linkedin.com/in/davidchung"
+        },
+        {
+        "id": "67899",
+        "name": "Emily Smith",
+        "title": "Consultora de Cloud",
+        "company": {
+            "id": "67900",
+            "name": "Cloud Solutions Ltd.",
+            "industry": "Consultoría de Tecnologías de la Información",
+            "specialties": ["AWS", "Soluciones en la Nube"]
+        },
+        "email": "emily.smith@cloudsolutionsltd.com",
+        "phone": "987-654-3211",
+        "location": "Londres, Reino Unido",
+        "linkedin_url": "https://www.linkedin.com/in/emilysmith"
+        }
+    ],
+    "total_results": 6,
+    "page": 1,
+    "per_page": 10,
+    "total_pages": 1
+}
